@@ -1,0 +1,7 @@
+ZERO ESPORTS RACING — WEB LISTA PARA SUBIR
+
+1) Abre index.html para ver la página.
+2) Edita enlaces de Instagram, Discord y correo en script.js.
+3) Edita nombres, resultados, pilotos y textos en index.html.
+4) Reemplaza imágenes dentro de la carpeta assets conservando los nombres si quieres cambiar logo, bienvenida o patrocinador.
+5) Para publicar en GitHub Pages: sube index.html, styles.css, script.js y la carpeta assets al repositorio. Luego Settings > Pages > Deploy from a branch > main > /(root).
